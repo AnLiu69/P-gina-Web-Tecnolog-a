@@ -1,0 +1,14 @@
+Cuadrar el tomcat:
+tools → servers → apache tomcat → (browse)seleccionar la carpeta tomcat 9 (si no hay descargar) 
+En contraseña y usuario: admin / admin; respectivamente
+
+
+Crear la base de datos:
+Utilizar el querry.sql (Dump20231212)para crear la base de datos, yo utilicé MySQL Workbench
+File → Open Querry → seleccionas el archivo ,sql y aceptar → Luego ya abierto, seleccionas todo el texto y le das al rayo de arriba → por último entras al apartado “schemas” y actualizas para que te salga
+
+Seleccionar el navegador:
+Seleccionar el proyecto → click derecho y seleccionar “Properties” → Luego seleccionar “Run” → y en la opción Browser elegir el navegador donde se correrá el programa
+
+Arranque de la página:
+Doble click en la carpeta Web-Pages → click derecho en el archivo “inicio.jsp” y se abrirá la página web
